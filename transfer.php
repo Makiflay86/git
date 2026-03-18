@@ -1,1 +1,1 @@
-<?php // Página de transferencias
+<?php // Transferencias v2 - mejorada
