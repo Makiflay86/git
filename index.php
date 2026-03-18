@@ -228,3 +228,4 @@ $total_balance = array_sum(array_column($accounts, 'balance'));
 =======
 /* Cambio 2 */
 >>>>>>> 5d25550 (docs: añade comentarios en index)
+<!-- header nuevo -->
