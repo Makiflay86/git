@@ -94,3 +94,8 @@ $accounts = [
 </body>
 </html>
 <?php // bug arreglado
+// ok
+// ok
+BUG
+// ok
+// ok

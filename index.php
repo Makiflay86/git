@@ -219,3 +219,4 @@ $total_balance = array_sum(array_column($accounts, 'balance'));
     </main>
 </body>
 </html>
+<?php // Fix urgente en index
