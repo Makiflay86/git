@@ -1,0 +1,13 @@
+# Normalizar line endings
+* text=auto
+*.php text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+
+# Archivos binarios (no hacer diff ni merge)
+*.png binary
+*.jpg binary
+*.pdf binary
+
+# Usar diff especial para PHP
+*.php diff=php
