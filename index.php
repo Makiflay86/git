@@ -1,3 +1,5 @@
+<!-- Soy un comentario de una sola linea-->
+
 <?php
 session_start();
 
