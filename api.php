@@ -1,5 +1,5 @@
 <?php // API endpoint
-<?php // endpoint mejorado
+// endpoint mejorado
 // test
 // signed
 // pendiente 1
