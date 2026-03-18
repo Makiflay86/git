@@ -221,6 +221,10 @@ $total_balance = array_sum(array_column($accounts, 'balance'));
 </html>
 <?php // Fix urgente en index
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 /* Cambio 2 */<!-- Fix del cambio 1 -->
 >>>>>>> dec1b4b (fixup! docs: añade comentario de cambio 1 en index)
+=======
+/* Cambio 2 */
+>>>>>>> 5d25550 (docs: añade comentarios en index)
