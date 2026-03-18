@@ -1,0 +1,3 @@
+[submodule "libs/phpdotenv"]
+	path = libs/phpdotenv
+	url = https://github.com/vlucas/phpdotenv.git

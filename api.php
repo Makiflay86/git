@@ -1,3 +1,7 @@
 <?php // API endpoint
-<?php // endpoint mejorado
+// endpoint mejorado
 // test
+// signed
+// pendiente 1
+// pendiente 2
+// verbose test
