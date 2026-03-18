@@ -96,3 +96,4 @@ $accounts = [
 <?php // bug arreglado
 // ok
 // ok
+BUG
