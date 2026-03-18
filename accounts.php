@@ -93,3 +93,4 @@ $accounts = [
     </main>
 </body>
 </html>
+<?php // bug arreglado
