@@ -1,5 +1,5 @@
 <!-- Soy un comentario de una sola linea-->
-
+<!-- Cambio 1 -->
 <?php
 session_start();
 
@@ -220,3 +220,7 @@ $total_balance = array_sum(array_column($accounts, 'balance'));
 </body>
 </html>
 <?php // Fix urgente en index
+<<<<<<< HEAD
+=======
+/* Cambio 2 */<!-- Fix del cambio 1 -->
+>>>>>>> dec1b4b (fixup! docs: añade comentario de cambio 1 en index)
